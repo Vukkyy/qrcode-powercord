@@ -1,0 +1,9 @@
+{
+    "name": "QRCode",
+    "version": "0.1.0",
+    "description": "Generate a QR code with a command",
+    "author": "Vukky",
+    "license": "MIT",
+    "dependencies": ["pc-commands"],
+    "permissions": ["ext_api"]
+}
